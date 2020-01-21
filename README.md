@@ -1,8 +1,8 @@
 ---
-description: Document an Environment for an Application
+description: Knack
 ---
 
-# Knack
+# Document an Environment for an Application
 
 If you need to create a new environment for an application, or delete an existing environment, please follow the steps outlined below -
 
